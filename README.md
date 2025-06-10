@@ -4,6 +4,6 @@
 Aufschriebe für:
 
 - Oberflächenphysik
-- Experimentalphysik B
-- Elektrochemie (kommt noch)
+- Elektrochemie
+- Experimentalphysik B (noch unvollständig)
 
