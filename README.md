@@ -1,9 +1,7 @@
-
 # Vorlesungsmitschriebe
 
 Aufschriebe für:
 
-- Oberflächenphysik
-- Elektrochemie
-- Experimentalphysik B (noch unvollständig)
-
+* Oberflächenphysik (in Arbeit)
+* Elektrochemie (in Arbeit)
+* Experimentalphysik B (in Arbeit)
