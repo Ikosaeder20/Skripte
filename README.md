@@ -7,7 +7,4 @@
 
 # Übungsblätter mit Lösungen
 
-* Experimentalphysik B (in Arbeit)
-
-
-
+* Experimentalphysik B (fertig)
