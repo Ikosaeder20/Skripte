@@ -5,7 +5,7 @@
 
 # Vorlesungsmitschriebe
 
-* Theoretische Physik A (in Arbeit)
+* Theoretische Physik A (fertig)
 
 
 
